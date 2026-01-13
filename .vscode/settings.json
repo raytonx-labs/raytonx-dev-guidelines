@@ -1,0 +1,21 @@
+{
+  "editor.fontVariations": false,
+  "explorer.confirmDelete": false,
+  "git.suggestSmartCommit": true,
+  "git.confirmSync": false,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+  },
+  "editor.formatOnSave": false, 
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint", 
+  "eslint.validate": [
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "jsonc"
+  ]
+}
