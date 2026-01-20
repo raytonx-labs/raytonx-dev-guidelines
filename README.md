@@ -23,6 +23,19 @@
 
 ```bash
 pnpm install
+
+# 新项目需要安装以下依赖
+pnpm install -D \
+  @eslint/js \
+  @next/eslint-plugin-next \
+  @typescript-eslint/parser \
+  @trivago/prettier-plugin-sort-imports \
+  eslint-config-prettier \
+  eslint-plugin-prettier \
+  eslint-plugin-react \
+  eslint-plugin-react-hooks \
+  eslint-plugin-unused-imports \
+  typescript
 ```
 
 ### 2.2 编辑器准备
