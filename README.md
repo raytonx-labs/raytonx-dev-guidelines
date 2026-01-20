@@ -35,7 +35,7 @@ pnpm install -D \
   eslint-plugin-react \
   eslint-plugin-react-hooks \
   eslint-plugin-unused-imports \
-  typescript
+  typescript-eslint
 ```
 
 ### 2.2 编辑器准备
