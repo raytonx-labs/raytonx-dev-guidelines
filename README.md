@@ -46,6 +46,8 @@ pnpm install -D \
   - `eslint.config.mts`
   - VSCode 工作区设置`.vscode/settings.json`
 3. 启用husky
+  - 安装 `pnpm add -D husky lint-staged`
+  - 初始化 `pnpm exec husky init`
   - 在 `package.json` 添加
 
       ```json
